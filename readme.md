@@ -1,6 +1,6 @@
 Autocolor is a simple way to autocomplete some common colors and display the color instantly in the input field.
 Example1:
-'''html
+'''
 <html>
  <head>
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css">
