@@ -72,7 +72,7 @@ $.fn.autocolor = function(settings){
          minLength:0
     }).bind('focus', function(){ $(this).autocomplete("search");});
     $this.after("<div class='autocolor'></div>");
-	$this.bind('change paste keyup', function(){
+	$this.bind('blur change input paste keyup', function(){
 	    var emulator = $(this).next('div.autocolor');
 	    emulator.css("display",'inline-block');	
 		emulator.css("margin-left",(-config.width));
