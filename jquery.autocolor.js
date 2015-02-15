@@ -5,11 +5,15 @@
  * 
  * Copyright 2015, Gaoping Huang
  * Released under the MIT license.
- * Homepage:
- *   http://web.ics.purdue.edu/~huang679
  *  
- * Authors:
+ * Author:
  *   Gaoping Huang
+ *   
+ * Homepage:
+ *   http://web.ics.purdue.edu/~huang679 
+ *   
+ * GitHub:
+ *   https://github.com/gaopinghuang0/autocolor
  *   
  * Dependencies:
  * 	jQuery u1.7+
